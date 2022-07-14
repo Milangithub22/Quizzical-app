@@ -1,0 +1,104 @@
+{response_code: 0
+, results: [{category: "Animals"
+, type: "multiple"
+, difficulty: "easy"
+, question: "What is the fastest land animal?"
+, correct_answer: "Cheetah"
+, incorrect_answers: ["Lion"
+, "Thomson&rsquo;s Gazelle"
+, "Pronghorn Antelope"
+]
+}
+, {category: "Geography"
+, type: "multiple"
+, difficulty: "medium"
+, question: "Which state of the United States is the smallest?"
+, correct_answer: "Rhode Island "
+, incorrect_answers: ["Maine"
+, "Vermont"
+, "Massachusetts"
+]
+}
+, {category: "Sports"
+, type: "multiple"
+, difficulty: "medium"
+, question: "What is the highest belt you can get in Taekwondo?"
+, correct_answer: "Black"
+, incorrect_answers: ["White"
+, "Red"
+, "Green"
+]
+}
+, {category: "Entertainment: Music"
+, type: "multiple"
+, difficulty: "medium"
+, question: "Which of these bands is the oldest?"
+, correct_answer: "Pink Floyd"
+, incorrect_answers: ["AC/DC"
+, "Metallica"
+, "Red Hot Chili Peppers"
+]
+}
+, {category: "Entertainment: Film"
+, type: "multiple"
+, difficulty: "hard"
+, question: "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?"
+, correct_answer: "Thinking Machines CM-5"
+, incorrect_answers: ["Cray X-MP"
+, "Cray XK7"
+, "IBM Blue Gene/Q"
+]
+}
+, {category: "Geography"
+, type: "multiple"
+, difficulty: "easy"
+, question: "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?"
+, correct_answer: "Sri Lanka"
+, incorrect_answers: ["Kiribati"
+, "Scotland"
+, "Bhutan"
+]
+}
+, {category: "Entertainment: Video Games"
+, type: "multiple"
+, difficulty: "hard"
+, question: "What is the 4th boss in the 1997 video game &quot;Crash Bandicoot 2: Cortex Strikes Back&quot;?"
+, correct_answer: "Dr. N. Gin"
+, incorrect_answers: ["Dr. Neo Cortex"
+, "Komodo Brothers"
+, "Tiny Tiger"
+]
+}
+, {category: "Entertainment: Board Games"
+, type: "multiple"
+, difficulty: "medium"
+, question: "In &quot;Magic: The Gathering&quot;, during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?"
+, correct_answer: "Purple"
+, incorrect_answers: ["Brown"
+, "Pink"
+, "Orange"
+]
+}
+, {category: "Sports"
+, type: "multiple"
+, difficulty: "hard"
+, question: "What team did England beat in the semi-final stage to win in the 1966 World Cup final?"
+, correct_answer: "Portugal"
+, incorrect_answers: ["West Germany"
+, "Soviet Union"
+, "Brazil"
+]
+}
+, {category: "Entertainment: Television"
+, type: "multiple"
+, difficulty: "medium"
+, question: "Who was Firestorm&#039;s rival during the original run of UK Robot Wars?"
+, correct_answer: "Panic Attack"
+, incorrect_answers: ["Razer"
+, "Chaos 2"
+, "Hypno Disc"
+]
+}
+]
+}
+/index.html
