@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import Play from "./Play";
+import Answers from "./Answers";
 
-export default function Main() {
+export default function FrontPage() {
   const [page, setPage] = useState(true);
 
   function handler() {
@@ -16,7 +16,7 @@ export default function Main() {
           <button onClick={handler}>Start quiz</button>
         </div>
       ) : (
-        <Play />
+        <Answers />
       )}
     </div>
   );
